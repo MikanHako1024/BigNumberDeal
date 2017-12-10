@@ -1,4 +1,4 @@
-# BigNumberDeal
+# Calculatinf Factorial/BigNumber Deal
 
 I need calculat the factorical of 1000.
 
